@@ -32,3 +32,4 @@ I took two courses on stepik platfom:
 * Algorythms: theory and practice. Methods.
 * Algorythm: theory and practice. Data structure
 
+Now study at rs-school js/front-end course
